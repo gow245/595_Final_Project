@@ -12,11 +12,17 @@ This map provides an overview of Passaic County operated roadways. There are cou
 
 This map provides an overview of the population density in Passaic County at the tract level using data from the 2019 American Community Survey. From this map it is shown that the southeastern section of this county consists of the urban municipalities of Paterson, Clifton, and Passaic. Adjacent to these municipalities are more suburban areas such as Wayne, Hawthorne, and Woodland Park. Finally, the northern parts of Passaic County such as West Milford and Ringwood are very rural and sparsely populated. 
 
-Data Source Description
-1) sdf
-2) sdfsdf
-3) sfdsdfs
-4) sdfsadf
-5) sdfsd
-6) sdf
+## Data Source Description
+1) Passaic County Roadway Data
+    - This dataset was sourced from the Passaic County Planning Department. 
+    - This was prepared by Boyang Wang, the GIS Specialist at Passaic County.
+    - It was last updated June 4th, 2025.
+    - It was originally a feature layer hosted on the Passaic County GIS portal. So I initially loaded it into ArcGIS Pro and then exported it to a GeoJSON, in order to load the data into colab. 
+    - I did not have any issue with data quality that I had to address. 
+
+3) sdfsdf
+4) sfdsdfs
+5) sdfsadf
+6) sdfsd
 7) sdf
+8) sdf
