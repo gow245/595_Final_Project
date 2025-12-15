@@ -5,7 +5,7 @@ This website provides 4 maps that give readers an overview of pedestrian crashes
 1) The first map provides an overview of municipalities in Passaic County.    
 2) The second map provides an overview of population density in Passaic County and consequently where pedestrians could be most concentrated. 
 3) The third map provides a heat map of where pedestrians have been injured along Passaic County roads and consequently the most dangerous areas for pedestrians.  
-4) The fourth map provides specific locations of all locations on County Roads where pedestrians have been killed or seriously injured with pop up information. Additionally, data regarding overburdened communities is shown as well.  
+4) The fourth map provides specific locations of all locations on County Roads where pedestrians have been killed or seriously injured with pop up information. Additionally, data regarding overburdened communities (as definied by New Jersery Department of Enviromental Protection) is shown as well.  
 
 
 
@@ -36,16 +36,24 @@ You can explore the map [as its own web page here](CrashMap2.html).
     - It was last updated June 4th, 2025.
     - It was originally a feature layer hosted on the Passaic County GIS portal. So I initially loaded it into ArcGIS Pro and then exported it to a GeoJSON, in order to load the data into colab. 
     - I did not have any issue with data quality that I had to address. 
-
 2) American Community Survey
     - This data is from the US Census.
     - This is from the 2019 ACS so that is when it was last updated
     - I got this data from API access from the US Census. I then had to filter the data to only be at the tract level for Passaic County. Additionally, since the census data was just the population tract level, I had to divide the census population data by the area of each tract in order to calculate the population density.
     - I did not have any issues with data quality. 
 3) Pedestrian Serious Injury Crash Data
+    - This data is from the North Jersey transportation Planning Authority. 
+    - This dataset was last updated April 8th, 2025.
+    - I orginally downloaded this data as a GeoJSON. In order to create my maps I had to clip the data to Passaic County.
 4) Pedestrian Fatal Crash
-5) Overburdened Community Data 
+    - This data is from the North Jersey transportation Planning Authority. 
+    - This dataset was last updated April 8th, 2025.
+    - I orginally downloaded this data as a GeoJSON. In order to create my maps I had to clip the data to Passaic County.
+5) Overburdened Community Data
+    - This data is from the New Jersey Department of Enviromental Justice.  
+    - It was prepared by the NJDEP and was last updated November 24th, 2025.
+    - I orginally downloaded this data as a GeoJSON. In order to create my maps I had to clip the data to Passaic County. Also since this data was also at the tract level so I dissolved it to be one big polygon. Finally, I used the diffrence funciton to create another layer that consisted of locations that are not an enviromental justice area.
+    - I did not have issues with data quality.
 
-   
 
 
