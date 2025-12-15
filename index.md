@@ -1,5 +1,5 @@
 ## Passaic County Pedestrian Crash Information Website
-Passaic County is a midsized county located in Northern New Jersey, This website provides an overview of where pedestrians have been seriously injured or killed along Passaic County managed roadways. This is an especially important topic as according to the 2025 Passaic County Local Safety Action Plan, more pedestrians are killed and injured on county roadways than state or municipal roadways. 
+Passaic County is a midsized county located in Northern New Jersey, This website provides an overview of where pedestrians have been seriously injured or killed along Passaic County managed roadways. This is an especially important topic as according to the 2025 Passaic County Local Safety Action Plan, more pedestrians are killed and injured on county roadways than on state or municipal roadways. 
 
 This website provides 4 maps that give readers an overview of pedestrian crashes in Passaic County:
 1) The first map provides an overview of municipalities in Passaic County.    
