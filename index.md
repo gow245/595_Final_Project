@@ -15,6 +15,9 @@ Map 3: Crash Locations
 
 This map provides an overview of all pedestrain crash injury locations that took place on county roads and of all pedestrian crash death locations that happened along county roads.
 
+## Interactive Crash Map
+<iframe src="CrashMap.html" height="505" width="405"></iframe>
+
 ## Data Source Descriptions
 1) Passaic County Roadway Data
     - This dataset was sourced from the Passaic County Planning Department. 
