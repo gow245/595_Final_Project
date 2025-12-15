@@ -58,4 +58,5 @@ You can explore the map [as its own web page here](CrashMap2.html).
     - I did not have issues with data quality.
 
 
+Credit: This website is created by Gavin White for 595 Command Line GIS
 
