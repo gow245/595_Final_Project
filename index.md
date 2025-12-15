@@ -44,11 +44,13 @@ You can explore the map [as its own web page here](CrashMap2.html).
 3) Pedestrian Serious Injury Crash Data
     - This data is from the North Jersey transportation Planning Authority. 
     - This dataset was last updated April 8th, 2025.
-    - I orginally downloaded this data as a GeoJSON. In order to create my maps I had to clip the data to Passaic County.
+    - I orginally downloaded this data as a GeoJSON. In order to create my heat map and interactive map I had to clip the data to Passaic County.
+    - I did not have issues with data quality.
 4) Pedestrian Fatal Crash
     - This data is from the North Jersey transportation Planning Authority. 
     - This dataset was last updated April 8th, 2025.
-    - I orginally downloaded this data as a GeoJSON. In order to create my maps I had to clip the data to Passaic County.
+    - I orginally downloaded this data as a GeoJSON. In order to create my heat map and interactive map I had to clip the data to Passaic County.
+    - I did not have issues with data quality.
 5) Overburdened Community Data
     - This data is from the New Jersey Department of Enviromental Justice.  
     - It was prepared by the NJDEP and was last updated November 24th, 2025.
