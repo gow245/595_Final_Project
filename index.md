@@ -26,7 +26,7 @@ Map 3: Heat Map
 The Map provides a heat map of pedestrian serious injury crashes in Passaic County. It is clear from this map that pedestrian serious injury crashes are concentrated in the municipalities of Paterson and Passaic. 
 
 ## Interactive Crash Map
-<iframe src="CrashMap2.html" height="520" width="420"></iframe>
+<iframe src="CrashMap2.html" height="540" width="420"></iframe>
 You can explore the map [as its own web page here](CrashMap2.html).
 
 ## Data Source Descriptions
