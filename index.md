@@ -1,4 +1,14 @@
-## Passaic County Crash Information
+## Passaic County Pedestrian Crash Information Website
+Passaic County is a midsized county located in Northern New Jersey, This website provides an overview of where pedestrians have been seriously injured or killed along Passaic County managed roadways. This is an especially important topic as according to the 2025 Passaic County Local Safety Action Plan, more pedestrians are killed and injured on county roadways than state or municipal roadways. 
+
+This website provides 4 maps that give readers an overview of pedestrian crashes in Passaic County:
+1) The first map provides an overview of municipalities in Passaic County.    
+2) The second map provides an overview of population density in Passaic County and consequently where pedestrians could be most concentrated. 
+3) The third map provides a heat map of where pedestrians have been injured along Passaic County roads and consequently the most dangerous areas for pedestrians.  
+4) The fourth map provides specific locations of all locations on County Roads where pedestrians have been killed or seriously injured with pop up information. Additionally, data regarding overburdened communities is shown as well.  
+
+
+
 
 ![Passaic County Municipal Map](FinalMunicipalityMap.png)
 Map 1: Municipality Overview
@@ -10,10 +20,10 @@ Map 2: Population Density
 
 This map provides an overview of the population density in Passaic County at the tract level using data from the 2019 American Community Survey. From this map it is shown that the southeastern section of this county consists of the urban municipalities of Paterson, Clifton, and Passaic. Adjacent to these municipalities are more suburban areas such as Wayne, Hawthorne, and Woodland Park. Finally, the northern parts of Passaic County such as West Milford and Ringwood are very rural and sparsely populated. 
 
-![County Crash Map](CountyCrashMap.png)
-Map 3: Crash Locations
+![County Crash Map](InjuryHeatMap.png)
+Map 3: Heat Map
 
-This map provides an overview of all pedestrain crash injury locations that took place on county roads and of all pedestrian crash death locations that happened along county roads.
+The Map provides a heat map of pedestrian serious injury crashes in Passaic County. It is clear from this map that pedestrian serious injury crashes are concentrated in the municipalities of Paterson and Passaic. 
 
 ## Interactive Crash Map
 <iframe src="CrashMap2.html" height="520" width="420"></iframe>
